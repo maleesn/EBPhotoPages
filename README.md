@@ -204,3 +204,5 @@ Be sure to check out these other libraries:
 [MLPAccessoryBadge](https://github.com/EddyBorja/MLPAccessoryBadge)<br />
 [MLPAutoCompleteTextField](https://github.com/EddyBorja/MLPAutoCompleteTextField)<br />
 
+maleesn (github.com/maleesn)
+
